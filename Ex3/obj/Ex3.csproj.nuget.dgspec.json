@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Анна\\Desktop\\Geekbrains\\Homework_3\\Ex3\\Ex3.csproj": {}
+    "C:\\Users\\Arteys\\Desktop\\Git\\Homework_3\\Homework_3\\Ex3\\Ex3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Анна\\Desktop\\Geekbrains\\Homework_3\\Ex3\\Ex3.csproj": {
+    "C:\\Users\\Arteys\\Desktop\\Git\\Homework_3\\Homework_3\\Ex3\\Ex3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Анна\\Desktop\\Geekbrains\\Homework_3\\Ex3\\Ex3.csproj",
+        "projectUniqueName": "C:\\Users\\Arteys\\Desktop\\Git\\Homework_3\\Homework_3\\Ex3\\Ex3.csproj",
         "projectName": "Ex3",
-        "projectPath": "C:\\Users\\Анна\\Desktop\\Geekbrains\\Homework_3\\Ex3\\Ex3.csproj",
-        "packagesPath": "C:\\Users\\Анна\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Анна\\Desktop\\Geekbrains\\Homework_3\\Ex3\\obj\\",
+        "projectPath": "C:\\Users\\Arteys\\Desktop\\Git\\Homework_3\\Homework_3\\Ex3\\Ex3.csproj",
+        "packagesPath": "C:\\Users\\Arteys\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arteys\\Desktop\\Git\\Homework_3\\Homework_3\\Ex3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Анна\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Arteys\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -48,12 +48,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
